@@ -1,0 +1,2 @@
+# Crisol
+Python class
